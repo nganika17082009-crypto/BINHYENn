@@ -1,0 +1,8 @@
+{
+  "name": "MindSpace THPT",
+  "description": "Không gian số hỗ trợ giải tỏa căng thẳng lành mạnh và cân bằng thói quen sử dụng Internet cho học sinh THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
